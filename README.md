@@ -59,27 +59,23 @@ From **AI applications in health and fitness** to **NLP solutions for communicat
 - 💡 Building fully functional smart applications for **e-commerce, networking, and security**
 
 ---
-
-### 💌 Let's Connect!
-
-🌐 **Website**: [abdulmalikshinkafi.com](https://abdulmalikshinkafi.com)  
-📫 **Email**: [abdulmalik@shinkafi.com](mailto:shinkafiabdulmalik@gmail.com)  
-💼 **LinkedIn**: [Abdulmalik Abdullahi Shinkafi](https://www.linkedin.com/in/abdulmalik-abdullahi-shinkafi-5645a21b6/)  
-
-I’m always excited to connect and collaborate on **AI-driven projects** that bring positive change. Reach out if you’re interested in cutting-edge projects in **AI, NLP, Computer Vision**, or **social impact tech**! 🌐✨
-
----
-
-**"I’m passionate about making a difference and creating transformative solutions for the world through AI and software development!"** 🌍💡
-
----
-[![Abdulmalik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shinkerphy)](https://github.com/anuraghazra/github-readme-stats)
-
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="c++" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png"></code>
+<code><img height="20" alt="java" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"></code>
+<code><img height="20" alt="tensorflow" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png"></code>
+<code><img height="20" alt="pytorch" src="https://raw.githubusercontent.com/github/explore/master/topics/pytorch/pytorch.png"></code>
+<code><img height="20" alt="flask" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png"></code>
+<code><img height="20" alt="firebase" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png"></code>
+<code><img height="20" alt="aws" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png"></code>
+<code><img height="20" alt="docker" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"></code>
+<code><img height="20" alt="mongodb" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"></code>
+<code><img height="20" alt="sql" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png"></code>
+<code><img height="20" alt="html5" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"></code>
+<code><img height="20" alt="css3" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"></code>
+<code><img height="20" alt="linux" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png"></code>  
 
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Shinkerphy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinkerphy&layout=compact&theme=buefy&hide_border=true" /></a> |
@@ -105,3 +101,16 @@ I’m always excited to connect and collaborate on **AI-driven projects** that b
   <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
 
+---
+
+### 💌 Let's Connect!
+
+🌐 **Website**: [abdulmalikshinkafi.com](https://abdulmalikshinkafi.com)  
+📫 **Email**: [abdulmalik@shinkafi.com](mailto:shinkafiabdulmalik@gmail.com)  
+💼 **LinkedIn**: [Abdulmalik Abdullahi Shinkafi](https://www.linkedin.com/in/abdulmalik-abdullahi-shinkafi-5645a21b6/)  
+
+I’m always excited to connect and collaborate on **AI-driven projects** that bring positive change. Reach out if you’re interested in cutting-edge projects in **AI, NLP, Computer Vision**, or **social impact tech**! 🌐✨
+
+---
+
+**"I’m passionate about making a difference and creating transformative solutions for the world through AI and software development!"** 🌍💡
