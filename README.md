@@ -58,50 +58,24 @@ From **AI applications in health and fitness** to **NLP solutions for communicat
 
 ---
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Shinkerphy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Abdulmalik's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinkerphy&layout=compact&theme=buefy&hide_border=true" /></a> |
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Shinkerphy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Abdulmalik's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinkerphy&layout=compact&theme=buefy&hide_border=true" /></a>
 
-| ------------- | ------------- |
+---
 ### 💡 Featured Projects
 
-<div align="center">
+<a href="https://github.com/Shinkerphy/AffectiLearn-FER">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shinkerphy&repo=AffectiLearn-FER&theme=buefy" />
+</a>
+<a href="https://github.com/Shinkerphy/Emotional-Support-Learning-Platform">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shinkerphy&repo=Emotional-Support-Learning-Platform&theme=buefy" />
+</a>
 
-<!-- Card 1 -->
-<div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 16px; width: 90%; margin: 8px;">
-  <h3>📌 AffectiLearn FER</h3>
-  <p><strong>Description:</strong> AI-based Facial Emotion Recognition (FER) system designed to support online learning by detecting emotions and adapting teaching styles.</p>
-  <p><strong>Tech Stack:</strong> Python, CNN, ResNet, PyTorch, Computer Vision, NLP</p>
-</div>
-
-<!-- Card 2 -->
-<div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 16px; width: 90%; margin: 8px;">
-  <h3>📌 Emotional Support Learning Platform</h3>
-  <p><strong>Description:</strong> A real-time online learning platform integrating Facial Expression Recognition to monitor and address students' emotional states, enhancing engagement by 30% through adaptive feedback.</p>
-  <p><strong>Tech Stack:</strong> CNNs, React.js, Node.js, Flask, Firebase</p>
-</div>
-
-<!-- Card 3 -->
-<div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 16px; width: 90%; margin: 8px;">
-  <h3>📌 EASE - Job Search Assistance Platform</h3>
-  <p><strong>Description:</strong> An interactive job search assistance platform tailored for neurodivergent individuals, offering real-time support and reducing application errors by 70% through OpenAI’s API.</p>
-  <p><strong>Tech Stack:</strong> Python, Streamlit, OpenAI, API</p>
-</div>
-
-<!-- Card 4 -->
-<div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 16px; width: 90%; margin: 8px;">
-  <h3>📌 Student Networking Platform</h3>
-  <p><strong>Description:</strong> Cross-platform application that enhances student networking through interest-based connections, improving user engagement and satisfaction with feedback from 100+ students.</p>
-  <p><strong>Tech Stack:</strong> MongoDB, Express.js, React.js, Node.js</p>
-</div>
-
-<!-- Card 5 -->
-<div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 16px; width: 90%; margin: 8px;">
-  <h3>📌 Obesity Risk Level Predictor</h3>
-  <p><strong>Description:</strong> Machine learning model developed to predict obesity risk levels, achieving a 93% accuracy and contributing valuable insights for health informatics.</p>
-  <p><strong>Tech Stack:</strong> Neural Networks, Random Forest, Logistic Regression</p>
-</div>
-
-</div>
-
+<a href="https://github.com/Shinkerphy/EASE-Job-Search-Assistance-Platform">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shinkerphy&repo=EASE-Job-Search-Assistance-Platform&theme=buefy" />
+</a>
+<a href="https://github.com/Shinkerphy/Student-Networking-Platform">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shinkerphy&repo=Student-Networking-Platform&theme=buefy" />
+</a>
 ---
 [🌐](https://abdulmalikshinkafi.com) [📫](mailto:abdulmalik@shinkafi.com) [💼](https://www.linkedin.com/in/abdulmalik-abdullahi-shinkafi-5645a21b6/)
 
