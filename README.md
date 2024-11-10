@@ -1,4 +1,6 @@
-# 👋 Hello! I'm Abdulmalik Abdullahi Shinkafi
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Abdulmalik. AI Enthusiast & Open-Source Contributor" src="./assets/gh-readme-header.png" /></a></p>
+
+<br />
 
 🔹 **AI Researcher** | 💻 **Software Engineer** | 🤖 **AI Engineer** | 🚀 **Startup Founder** | 🌍 **Tech Enthusiast**
 
@@ -6,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-Hello! I’m Abdulmalik, an **AI Researcher, Engineer, and Software Developer** passionate about using technology to make a meaningful difference in the world. I am the founder of [AffectiLearn](https://github.com/AffectiLearn)(Coming Soon), where I aim to develop **AI-powered solutions** that address real-world challenges, from education to health and beyond. With a deep commitment to **innovation** and **social impact**, my goal is to create applications that not only advance technology but also enrich lives.
+Hello! I’m Abdulmalik, an **AI Researcher, Engineer, and Software Developer** passionate about using technology to make a meaningful difference in the world. I am the founder of [AffectiLearn](https://github.com/AffectiLearn) (Coming Soon), where I aim to develop **AI-powered solutions** that address real-world challenges, from education to health and beyond. With a deep commitment to **innovation** and **social impact**, my goal is to create applications that not only advance technology but also enrich lives.
 
 Studied MSc in **Artificial Intelligence** at City, University of London, focusing on **Explainable AI, Machine Learning, and Deep Learning**. Previously, I studied **Software Engineering** at Nottingham Trent University. My journey in tech is driven by a mission to blend **AI and software development** to solve complex problems and bring positive change globally.
 
@@ -61,23 +63,6 @@ From **AI applications in health and fitness** to **NLP solutions for communicat
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Shinkerphy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Abdulmalik's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinkerphy&layout=compact&theme=buefy&hide_border=true" /></a>
 
 ---
-### 💡 Featured Projects
-
-<a href="https://github.com/Shinkerphy/AffectiLearn-FER">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shinkerphy&repo=AffectiLearn-FER&theme=buefy" />
-</a>
-<a href="https://github.com/Shinkerphy/Emotional-Support-Learning-Platform">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shinkerphy&repo=Emotional-Support-Learning-Platform&theme=buefy" />
-</a>
-
-<a href="https://github.com/Shinkerphy/EASE-Job-Search-Assistance-Platform">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shinkerphy&repo=EASE-Job-Search-Assistance-Platform&theme=buefy" />
-</a>
-<a href="https://github.com/Shinkerphy/Student-Networking-Platform">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shinkerphy&repo=Student-Networking-Platform&theme=buefy" />
-</a>
----
-[🌐](https://abdulmalikshinkafi.com) [📫](mailto:abdulmalik@shinkafi.com) [💼](https://www.linkedin.com/in/abdulmalik-abdullahi-shinkafi-5645a21b6/)
 
 I’m always excited to connect and collaborate on **AI-driven projects** that bring positive change. Reach out if you’re interested in cutting-edge projects in **AI, NLP, Computer Vision**, or **social impact tech**! 🌐✨
 
