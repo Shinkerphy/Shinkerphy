@@ -1,9 +1,9 @@
-<h1 align="center" style="color:#ff595e; font-weight: bold; font-size: 3em; margin-bottom: -10px;">
-  Hello! I'm Abdulmalik
+<h1 align="center" style="color:#FF6347; font-family: 'Comic Sans MS', cursive; font-size: 3em;">
+  Hello! I'm Abdulmalik 😊
 </h1>
-<p align="center" style="color:#8a2be2; font-size: 1.5em;">
-  <em>AI Enthusiast & Open-Source Contributor :)</em>
-</p>
+<h3 align="center" style="color:#4B0082; font-family: 'Lucida Handwriting', cursive;">
+  <em>AI Enthusiast & Open-Source Contributor 🎉</em>
+</h3>
 
 <br />
 
