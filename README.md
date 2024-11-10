@@ -10,6 +10,31 @@ Hello! I’m Abdulmalik, an **AI Researcher, Engineer, and Software Developer** 
 
 Studied MSc in **Artificial Intelligence** at City, University of London, focusing on **Explainable AI, Machine Learning, and Deep Learning**. Previously, I studied **Software Engineering** at Nottingham Trent University. My journey in tech is driven by a mission to blend **AI and software development** to solve complex problems and bring positive change globally.
 
+<div align="center">
+  <!-- AI/ML Research & Development Card -->
+  <div style="display: inline-block; border: 2px solid #e1e4e8; border-radius: 10px; padding: 20px; width: 45%; margin: 10px; vertical-align: top; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);">
+    <h2>🌟 AI/ML Research & Development</h2>
+    <ul style="list-style: none; text-align: left; padding: 0;">
+      <li>🎓💡 <strong>Emotion Recognition for EdTech</strong></li>
+      <li>🗣️🌐 <strong>Natural Language Processing (NLP)</strong></li>
+      <li>👁️📸 <strong>Computer Vision</strong></li>
+      <li>🤖📊 <strong>Machine Learning</strong></li>
+      <li>🧠💥 <strong>Deep Learning</strong></li>
+    </ul>
+  </div>
+
+  <!-- Software Engineering Card -->
+  <div style="display: inline-block; border: 2px solid #e1e4e8; border-radius: 10px; padding: 20px; width: 45%; margin: 10px; vertical-align: top; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);">
+    <h2>💻 Software Engineering</h2>
+    <ul style="list-style: none; text-align: left; padding: 0;">
+      <li><strong>Languages:</strong> Python, JavaScript, C++, C#, Java, SQL</li>
+      <li><strong>Frameworks & Libraries:</strong> React, Node.js, PyTorch, TensorFlow, Keras, Flask, OpenCV, ASP.NET</li>
+      <li><strong>Tools:</strong> PyTorch, AWS, Webflow, Git/GitHub, Firebase, Framer, Figma</li>
+      <li><strong>Web & Mobile Development:</strong> MERN Stack, Android Studio, WordPress, Flask</li>
+    </ul>
+  </div>
+</div>
+
 ### 🌟 My Expertise
 
 #### 🧠 AI/ML Research & Development
