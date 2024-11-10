@@ -4,15 +4,11 @@
 
 🔹 **AI Researcher** | 💻 **Software Engineer** | 🤖 **AI Engineer** | 🚀 **Startup Founder** | 🌍 **Tech Enthusiast**
 
----
-
 ### 👨‍💻 About Me
 
 Hello! I’m Abdulmalik, an **AI Researcher, Engineer, and Software Developer** passionate about using technology to make a meaningful difference in the world. I am the founder of [AffectiLearn](https://github.com/AffectiLearn) (Coming Soon), where I aim to develop **AI-powered solutions** that address real-world challenges, from education to health and beyond. With a deep commitment to **innovation** and **social impact**, my goal is to create applications that not only advance technology but also enrich lives.
 
 Studied MSc in **Artificial Intelligence** at City, University of London, focusing on **Explainable AI, Machine Learning, and Deep Learning**. Previously, I studied **Software Engineering** at Nottingham Trent University. My journey in tech is driven by a mission to blend **AI and software development** to solve complex problems and bring positive change globally.
-
----
 
 ### 🌟 My Expertise
 
@@ -29,8 +25,6 @@ Studied MSc in **Artificial Intelligence** at City, University of London, focusi
 - **Tools**: PyTorch, AWS, Webflow, Git/GitHub, Firebase, Framer, Figma
 - **Web & Mobile Development**: MERN Stack, Android Studio, WordPress, Flask
 
----
-
 ### 🌍 What I'm Building
 
 #### 🚀 AffectiLearn  
@@ -39,7 +33,6 @@ A **groundbreaking Affective Learning Platform** that leverages AI to bring emot
 #### 🧩 Expanding the Vision Beyond EdTech  
 From **AI applications in health and fitness** to **NLP solutions for communication**, I’m constantly exploring how AI and software can solve challenges and bring lasting benefits across industries. This includes building **real-time fitness tracking**, **gesture recognition for accessibility**, and **predictive health models**.
 
----
 <code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="c++" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png"></code>
