@@ -1,5 +1,9 @@
-<h1 align="center" style="color: #ff595e; font-size: 2.5em;">Hello! I'm Abdulmalik</h1>
-<p align="center" style="color: #8a2be2; font-size: 1.5em;"><em>AI Enthusiast & Open-Source Contributor :)</em></p>
+<h1 align="center" style="color:#ff595e; font-weight: bold; font-size: 3em; margin-bottom: -10px;">
+  Hello! I'm Abdulmalik
+</h1>
+<p align="center" style="color:#8a2be2; font-size: 1.5em;">
+  <em>AI Enthusiast & Open-Source Contributor :)</em>
+</p>
 
 <br />
 
