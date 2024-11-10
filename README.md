@@ -10,33 +10,6 @@ Hello! I’m Abdulmalik, an **AI Researcher, Engineer, and Software Developer** 
 
 Studied MSc in **Artificial Intelligence** at City, University of London, focusing on **Explainable AI, Machine Learning, and Deep Learning**. Previously, I studied **Software Engineering** at Nottingham Trent University. My journey in tech is driven by a mission to blend **AI and software development** to solve complex problems and bring positive change globally.
 
-<table align="center">
-  <tr>
-    <!-- AI/ML Research & Development Card -->
-    <td width="50%" valign="top" style="border: 2px solid #e1e4e8; border-radius: 10px; padding: 20px; margin: 10px;">
-      <h2 align="center">🌟 AI/ML Research & Development</h2>
-      <ul>
-        <li>🎓💡 <strong>Emotion Recognition for EdTech</strong></li>
-        <li>🗣️🌐 <strong>Natural Language Processing (NLP)</strong></li>
-        <li>👁️📸 <strong>Computer Vision</strong></li>
-        <li>🤖📊 <strong>Machine Learning</strong></li>
-        <li>🧠💥 <strong>Deep Learning</strong></li>
-      </ul>
-    </td>
-
-    <!-- Software Engineering Card -->
-    <td width="50%" valign="top" style="border: 2px solid #e1e4e8; border-radius: 10px; padding: 20px; margin: 10px;">
-      <h2 align="center">💻 Software Engineering</h2>
-      <ul>
-        <li><strong>Languages:</strong> Python, JavaScript, C++, C#, Java, SQL</li>
-        <li><strong>Frameworks & Libraries:</strong> React, Node.js, PyTorch, TensorFlow, Keras, Flask, OpenCV, ASP.NET</li>
-        <li><strong>Tools:</strong> PyTorch, AWS, Webflow, Git/GitHub, Firebase, Framer, Figma</li>
-        <li><strong>Web & Mobile Development:</strong> MERN Stack, Android Studio, WordPress, Flask</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
 ### 🌟 My Expertise
 
 #### 🧠 AI/ML Research & Development
@@ -51,6 +24,33 @@ Studied MSc in **Artificial Intelligence** at City, University of London, focusi
 - **Frameworks & Libraries**: React, Node.js, PyTorch, TensorFlow, Keras, Flask, OpenCV, ASP.NET
 - **Tools**: PyTorch, AWS, Webflow, Git/GitHub, Firebase, Framer, Figma
 - **Web & Mobile Development**: MERN Stack, Android Studio, WordPress, Flask
+
+<table>
+  <tr>
+    <!-- AI/ML Research & Development Card -->
+    <td width="50%" valign="top" style="padding: 15px;">
+      <h2 align="center">🌟 AI/ML Research & Development</h2>
+      <ul>
+        <li>🎓💡 <strong>Emotion Recognition for EdTech</strong></li>
+        <li>🗣️🌐 <strong>Natural Language Processing (NLP)</strong></li>
+        <li>👁️📸 <strong>Computer Vision</strong></li>
+        <li>🤖📊 <strong>Machine Learning</strong></li>
+        <li>🧠💥 <strong>Deep Learning</strong></li>
+      </ul>
+    </td>
+
+    <!-- Software Engineering Card -->
+    <td width="50%" valign="top" style="padding: 15px;">
+      <h2 align="center">💻 Software Engineering</h2>
+      <ul>
+        <li><strong>Languages:</strong> Python, JavaScript, C++, C#, Java, SQL</li>
+        <li><strong>Frameworks & Libraries:</strong> React, Node.js, PyTorch, TensorFlow, Keras, Flask, OpenCV, ASP.NET</li>
+        <li><strong>Tools:</strong> PyTorch, AWS, Webflow, Git/GitHub, Firebase, Framer, Figma</li>
+        <li><strong>Web & Mobile Development:</strong> MERN Stack, Android Studio, WordPress, Flask</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ### 🌍 What I'm Building
 
