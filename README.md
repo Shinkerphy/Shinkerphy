@@ -28,7 +28,7 @@ Studied MSc in **Artificial Intelligence** at City, University of London, focusi
 <table>
   <tr>
     <!-- AI/ML Research & Development Card -->
-    <td width="50%" valign="top" style="padding: 15px;">
+    <td width="50%" valign="top" style="border: 1px solid #e1e4e8; padding: 15px; border-radius: 8px;">
       <h2 align="center">🌟 AI/ML Research & Development</h2>
       <ul>
         <li>🎓💡 <strong>Emotion Recognition for EdTech</strong></li>
@@ -40,7 +40,7 @@ Studied MSc in **Artificial Intelligence** at City, University of London, focusi
     </td>
 
     <!-- Software Engineering Card -->
-    <td width="50%" valign="top" style="padding: 15px;">
+    <td width="50%" valign="top" style="border: 1px solid #e1e4e8; padding: 15px; border-radius: 8px;">
       <h2 align="center">💻 Software Engineering</h2>
       <ul>
         <li><strong>Languages:</strong> Python, JavaScript, C++, C#, Java, SQL</li>
