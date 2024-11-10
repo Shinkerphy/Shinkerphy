@@ -103,13 +103,6 @@ From **AI applications in health and fitness** to **NLP solutions for communicat
 </div>
 
 ---
-
-#### 📌 Obesity Risk Level Predictor
-> **Description**: Machine learning model developed to predict obesity risk levels, achieving a 93% accuracy and contributing valuable insights for health informatics.
-> 
-> **Tech Stack**: Neural Networks, Random Forest, Logistic Regression
-### 💌 Let's Connect!
-
 [🌐](https://abdulmalikshinkafi.com) [📫](mailto:abdulmalik@shinkafi.com) [💼](https://www.linkedin.com/in/abdulmalik-abdullahi-shinkafi-5645a21b6/)
 
 I’m always excited to connect and collaborate on **AI-driven projects** that bring positive change. Reach out if you’re interested in cutting-edge projects in **AI, NLP, Computer Vision**, or **social impact tech**! 🌐✨
