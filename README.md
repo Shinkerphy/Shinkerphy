@@ -50,15 +50,6 @@ From **AI applications in health and fitness** to **NLP solutions for communicat
 | **Obesity Risk Level Predictor** | Developed a predictor for obesity risk levels using neural networks and random forest, achieving a 93% accuracy, contributing valuable insights for health informatics. | Neural Networks, Random Forest, Logistic Regression |
 
 ---
-
-### 📈 Stats & Highlights
-
-- 🎓 MSc in Artificial Intelligence
-- 🎓 Bachelors Degree in Software Engineering
-- 🏆 Best AWS Summer School Student
-- 💡 Building fully functional smart applications for **e-commerce, networking, and security**
-
----
 <code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="c++" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png"></code>
@@ -75,12 +66,12 @@ From **AI applications in health and fitness** to **NLP solutions for communicat
 <code><img height="20" alt="sql" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png"></code>
 <code><img height="20" alt="html5" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"></code>
 <code><img height="20" alt="css3" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"></code>
-<code><img height="20" alt="linux" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png"></code>  
+<code><img height="20" alt="linux" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png"></code> 
 
+---
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Shinkerphy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinkerphy&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-
 #### Top Repositories
 
 
