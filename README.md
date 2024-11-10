@@ -38,18 +38,6 @@ A **groundbreaking Affective Learning Platform** that leverages AI to bring emot
 From **AI applications in health and fitness** to **NLP solutions for communication**, I’m constantly exploring how AI and software can solve challenges and bring lasting benefits across industries. This includes building **real-time fitness tracking**, **gesture recognition for accessibility**, and **predictive health models**.
 
 ---
-
-### 💡 Featured Projects
-
-| Project | Description | Tech Stack |
-| ------- | ----------- | ---------- |
-| [**AffectiLearn FER**](https://github.com/AffectiLearn) | AI-based FER system supporting online learning by detecting emotions to adapt teaching styles. | Python, CNN, ResNet, PyTorch | Computer Vision | NLP
-| **Emotional Support Learning Platform** | Real-time online learning platform with Facial Expression Recognition models to monitor and address students’ emotional states, improving engagement by 30% through adaptive feedback. | CNNs, React.js, Node.js, Flask, Firebase |
-| **EASE - Job Search Assistance Platform** | An interactive job search assistance tool designed for neurodivergent individuals, providing tailored support and reducing application errors by 70% through OpenAI’s API. | Python, Streamlit, OpenAI, API |
-| **Student Networking Platform** | Cross-platform application enhancing student networking through interest-based connections, improving engagement and satisfaction with feedback from 100+ students. | MongoDB, Express.js, React.js, Node.js |
-| **Obesity Risk Level Predictor** | Developed a predictor for obesity risk levels using neural networks and random forest, achieving a 93% accuracy, contributing valuable insights for health informatics. | Neural Networks, Random Forest, Logistic Regression |
-
----
 <code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="c++" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png"></code>
@@ -70,38 +58,41 @@ From **AI applications in health and fitness** to **NLP solutions for communicat
 
 ---
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Shinkerphy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinkerphy&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Shinkerphy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Abdulmalik's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinkerphy&layout=compact&theme=buefy&hide_border=true" /></a> |
+
 | ------------- | ------------- |
-#### Top Repositories
+### 💡 Featured Projects
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shinkerphy&repo=github-readme-stats&theme=buefy" />
+<a href="https://github.com/Shinkerphy/AffectiLearn-FER">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shinkerphy&repo=AffectiLearn-FER&theme=buefy" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shinkerphy&repo=anuraghazra.github.io&theme=buefy" />
-</a>
+<p><strong>AffectiLearn FER</strong>: AI-based FER system supporting online learning by detecting emotions to adapt teaching styles.</p>
+<p>Tech Stack: Python, CNN, ResNet, PyTorch, Computer Vision, NLP</p>
 
-<br />
-<br />
-
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+<a href="https://github.com/Shinkerphy/Emotional-Support-Learning-Platform">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shinkerphy&repo=Emotional-Support-Learning-Platform&theme=buefy" />
 </a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
+<p><strong>Emotional Support Learning Platform</strong>: Real-time online learning platform with Facial Expression Recognition models to monitor and address students’ emotional states, improving engagement by 30% through adaptive feedback.</p>
+<p>Tech Stack: CNNs, React.js, Node.js, Flask, Firebase</p>
 
----
+<a href="https://github.com/Shinkerphy/EASE-Job-Search-Assistance-Platform">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shinkerphy&repo=EASE-Job-Search-Assistance-Platform&theme=buefy" />
+</a>
+<p><strong>EASE - Job Search Assistance Platform</strong>: An interactive job search assistance tool designed for neurodivergent individuals, providing tailored support and reducing application errors by 70% through OpenAI’s API.</p>
+<p>Tech Stack: Python, Streamlit, OpenAI, API</p>
+
+<a href="https://github.com/Shinkerphy/Student-Networking-Platform">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shinkerphy&repo=Student-Networking-Platform&theme=buefy" />
+</a>
+<p><strong>Student Networking Platform</strong>: Cross-platform application enhancing student networking through interest-based connections, improving engagement and satisfaction with feedback from 100+ students.</p>
+<p>Tech Stack: MongoDB, Express.js, React.js, Node.js</p>
+
+<a href="https://github.com/Shinkerphy
 
 ### 💌 Let's Connect!
 
-🌐 **Website**: [abdulmalikshinkafi.com](https://abdulmalikshinkafi.com)  
-📫 **Email**: [abdulmalik@shinkafi.com](mailto:shinkafiabdulmalik@gmail.com)  
-💼 **LinkedIn**: [Abdulmalik Abdullahi Shinkafi](https://www.linkedin.com/in/abdulmalik-abdullahi-shinkafi-5645a21b6/)  
+[🌐](https://abdulmalikshinkafi.com) [📫](mailto:abdulmalik@shinkafi.com) [💼](https://www.linkedin.com/in/abdulmalik-abdullahi-shinkafi-5645a21b6/)
 
 I’m always excited to connect and collaborate on **AI-driven projects** that bring positive change. Reach out if you’re interested in cutting-edge projects in **AI, NLP, Computer Vision**, or **social impact tech**! 🌐✨
-
----
 
 **"I’m passionate about making a difference and creating transformative solutions for the world through AI and software development!"** 🌍💡
