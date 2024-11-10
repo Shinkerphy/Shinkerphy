@@ -63,32 +63,40 @@ From **AI applications in health and fitness** to **NLP solutions for communicat
 | ------------- | ------------- |
 ### 💡 Featured Projects
 
-<a href="https://github.com/Shinkerphy/AffectiLearn-FER">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shinkerphy&repo=AffectiLearn-FER&theme=buefy" />
-</a>
-<p><strong>AffectiLearn FER</strong>: AI-based FER system supporting online learning by detecting emotions to adapt teaching styles.</p>
-<p>Tech Stack: Python, CNN, ResNet, PyTorch, Computer Vision, NLP</p>
+---
 
-<a href="https://github.com/Shinkerphy/Emotional-Support-Learning-Platform">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shinkerphy&repo=Emotional-Support-Learning-Platform&theme=buefy" />
-</a>
-<p><strong>Emotional Support Learning Platform</strong>: Real-time online learning platform with Facial Expression Recognition models to monitor and address students’ emotional states, improving engagement by 30% through adaptive feedback.</p>
-<p>Tech Stack: CNNs, React.js, Node.js, Flask, Firebase</p>
+#### 📌 AffectiLearn FER
+> **Description**: AI-based Facial Emotion Recognition (FER) system designed to support online learning by detecting emotions and adapting teaching styles.
+> 
+> **Tech Stack**: Python, CNN, ResNet, PyTorch, Computer Vision, NLP
 
-<a href="https://github.com/Shinkerphy/EASE-Job-Search-Assistance-Platform">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shinkerphy&repo=EASE-Job-Search-Assistance-Platform&theme=buefy" />
-</a>
-<p><strong>EASE - Job Search Assistance Platform</strong>: An interactive job search assistance tool designed for neurodivergent individuals, providing tailored support and reducing application errors by 70% through OpenAI’s API.</p>
-<p>Tech Stack: Python, Streamlit, OpenAI, API</p>
+---
 
-<a href="https://github.com/Shinkerphy/Student-Networking-Platform">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shinkerphy&repo=Student-Networking-Platform&theme=buefy" />
-</a>
-<p><strong>Student Networking Platform</strong>: Cross-platform application enhancing student networking through interest-based connections, improving engagement and satisfaction with feedback from 100+ students.</p>
-<p>Tech Stack: MongoDB, Express.js, React.js, Node.js</p>
+#### 📌 Emotional Support Learning Platform
+> **Description**: A real-time online learning platform integrating Facial Expression Recognition to monitor and address students' emotional states, enhancing engagement by 30% through adaptive feedback.
+> 
+> **Tech Stack**: CNNs, React.js, Node.js, Flask, Firebase
 
-<a href="https://github.com/Shinkerphy
+---
 
+#### 📌 EASE - Job Search Assistance Platform
+> **Description**: An interactive job search assistance platform tailored for neurodivergent individuals, offering real-time support and reducing application errors by 70% through OpenAI’s API.
+> 
+> **Tech Stack**: Python, Streamlit, OpenAI, API
+
+---
+
+#### 📌 Student Networking Platform
+> **Description**: Cross-platform application that enhances student networking through interest-based connections, improving user engagement and satisfaction with feedback from 100+ students.
+> 
+> **Tech Stack**: MongoDB, Express.js, React.js, Node.js
+
+---
+
+#### 📌 Obesity Risk Level Predictor
+> **Description**: Machine learning model developed to predict obesity risk levels, achieving a 93% accuracy and contributing valuable insights for health informatics.
+> 
+> **Tech Stack**: Neural Networks, Random Forest, Logistic Regression
 ### 💌 Let's Connect!
 
 [🌐](https://abdulmalikshinkafi.com) [📫](mailto:abdulmalik@shinkafi.com) [💼](https://www.linkedin.com/in/abdulmalik-abdullahi-shinkafi-5645a21b6/)
