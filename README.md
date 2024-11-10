@@ -63,33 +63,44 @@ From **AI applications in health and fitness** to **NLP solutions for communicat
 | ------------- | ------------- |
 ### 💡 Featured Projects
 
----
+<div align="center">
 
-#### 📌 AffectiLearn FER
-> **Description**: AI-based Facial Emotion Recognition (FER) system designed to support online learning by detecting emotions and adapting teaching styles.
-> 
-> **Tech Stack**: Python, CNN, ResNet, PyTorch, Computer Vision, NLP
+<!-- Card 1 -->
+<div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 16px; width: 90%; margin: 8px;">
+  <h3>📌 AffectiLearn FER</h3>
+  <p><strong>Description:</strong> AI-based Facial Emotion Recognition (FER) system designed to support online learning by detecting emotions and adapting teaching styles.</p>
+  <p><strong>Tech Stack:</strong> Python, CNN, ResNet, PyTorch, Computer Vision, NLP</p>
+</div>
 
----
+<!-- Card 2 -->
+<div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 16px; width: 90%; margin: 8px;">
+  <h3>📌 Emotional Support Learning Platform</h3>
+  <p><strong>Description:</strong> A real-time online learning platform integrating Facial Expression Recognition to monitor and address students' emotional states, enhancing engagement by 30% through adaptive feedback.</p>
+  <p><strong>Tech Stack:</strong> CNNs, React.js, Node.js, Flask, Firebase</p>
+</div>
 
-#### 📌 Emotional Support Learning Platform
-> **Description**: A real-time online learning platform integrating Facial Expression Recognition to monitor and address students' emotional states, enhancing engagement by 30% through adaptive feedback.
-> 
-> **Tech Stack**: CNNs, React.js, Node.js, Flask, Firebase
+<!-- Card 3 -->
+<div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 16px; width: 90%; margin: 8px;">
+  <h3>📌 EASE - Job Search Assistance Platform</h3>
+  <p><strong>Description:</strong> An interactive job search assistance platform tailored for neurodivergent individuals, offering real-time support and reducing application errors by 70% through OpenAI’s API.</p>
+  <p><strong>Tech Stack:</strong> Python, Streamlit, OpenAI, API</p>
+</div>
 
----
+<!-- Card 4 -->
+<div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 16px; width: 90%; margin: 8px;">
+  <h3>📌 Student Networking Platform</h3>
+  <p><strong>Description:</strong> Cross-platform application that enhances student networking through interest-based connections, improving user engagement and satisfaction with feedback from 100+ students.</p>
+  <p><strong>Tech Stack:</strong> MongoDB, Express.js, React.js, Node.js</p>
+</div>
 
-#### 📌 EASE - Job Search Assistance Platform
-> **Description**: An interactive job search assistance platform tailored for neurodivergent individuals, offering real-time support and reducing application errors by 70% through OpenAI’s API.
-> 
-> **Tech Stack**: Python, Streamlit, OpenAI, API
+<!-- Card 5 -->
+<div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 16px; width: 90%; margin: 8px;">
+  <h3>📌 Obesity Risk Level Predictor</h3>
+  <p><strong>Description:</strong> Machine learning model developed to predict obesity risk levels, achieving a 93% accuracy and contributing valuable insights for health informatics.</p>
+  <p><strong>Tech Stack:</strong> Neural Networks, Random Forest, Logistic Regression</p>
+</div>
 
----
-
-#### 📌 Student Networking Platform
-> **Description**: Cross-platform application that enhances student networking through interest-based connections, improving user engagement and satisfaction with feedback from 100+ students.
-> 
-> **Tech Stack**: MongoDB, Express.js, React.js, Node.js
+</div>
 
 ---
 
