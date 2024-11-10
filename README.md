@@ -25,14 +25,6 @@ Studied MSc in **Artificial Intelligence** at City, University of London, focusi
 - **Tools**: PyTorch, AWS, Webflow, Git/GitHub, Firebase, Framer, Figma
 - **Web & Mobile Development**: MERN Stack, Android Studio, WordPress, Flask
 
-### 🌍 What I'm Building
-
-#### 🚀 AffectiLearn  
-A **groundbreaking Affective Learning Platform** that leverages AI to bring emotional intelligence and cognitive support to learners worldwide. Our flagship product is an **AI-powered FER (Facial Emotion Recognition) system** that adapts to students' emotions in real time, helping educators respond effectively. This platform represents my broader vision of creating **AI-driven solutions** that foster personal growth, resilience, and inclusive learning. 🌐👩‍🏫✨
-
-#### 🧩 Expanding the Vision Beyond EdTech  
-From **AI applications in health and fitness** to **NLP solutions for communication**, I’m constantly exploring how AI and software can solve challenges and bring lasting benefits across industries. This includes building **real-time fitness tracking**, **gesture recognition for accessibility**, and **predictive health models**.
-
 <code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="c++" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png"></code>
