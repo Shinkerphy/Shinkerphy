@@ -1,4 +1,5 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Abdulmalik. AI Enthusiast & Open-Source Contributor" src="./assets/gh-readme-header.png" /></a></p>
+<h1 align="center">Hello! I'm Abdulmalik</h1>
+<p align="center"><em>AI Enthusiast & Open-Source Contributor :)</em></p>
 
 <br />
 
