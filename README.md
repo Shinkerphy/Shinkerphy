@@ -1,5 +1,4 @@
-<h1 align="center">Hello! I'm Abdulmalik 😊</h1>
-<p align="center"><em><strong><span style="color:#6A5ACD;">AI Enthusiast & Open-Source Contributor 🎉</span></strong></em></p>
+<h1 align="center">Hello, I'm an AI Enthusiast 🤖</h1>
 
 <br />
 
