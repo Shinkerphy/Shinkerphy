@@ -44,7 +44,7 @@ Studied MSc in **Artificial Intelligence** at City, University of London, focusi
 <code><img height="20" alt="linux" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png"></code> 
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Shinkerphy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinkerphy&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Shinkerphy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Shinkerphy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinkerphy&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 I’m always excited to connect and collaborate on **AI-driven projects** that bring positive change. Reach out if you’re interested in cutting-edge projects in **AI, NLP, Computer Vision**, or **social impact tech**! 🌐✨
