@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm an AI Enthusiast 🤖</h1>
+<h1 align="center" color="Red">Hello, I'm an AI Enthusiast 🤖</h1>
 
 <br />
 
