@@ -49,4 +49,4 @@ Studied MSc in **Artificial Intelligence** at City, University of London, focusi
 
 I’m always excited to connect and collaborate on **AI-driven projects** that bring positive change. Reach out if you’re interested in cutting-edge projects in **AI, NLP, Computer Vision**, or **social impact tech solutions**! 🌐✨
 
-**"I’m passionate about making a difference and creating transformative solutions for the world through AI and software development!"** 🌍💡
+**I’m passionate about making a difference and creating transformative solutions for the world through AI and software development!** 🌍💡
