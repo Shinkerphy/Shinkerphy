@@ -21,7 +21,7 @@ Studied MSc in **Artificial Intelligence** at City, University of London, focusi
 
 #### 💻 Software Engineering
 - **Languages**: Python, JavaScript, C++, C#, Java, SQL
-- **Frameworks & Libraries**: React, Node.js, PyTorch, TensorFlow, Keras, Flask, OpenCV, ASP.NET
+- **Frameworks & Libraries**: React, Express.js, Node.js, PyTorch, TensorFlow, Keras, Flask, OpenCV, ASP.NET
 - **Tools**: PyTorch, AWS, Webflow, Git, GitHub, Firebase, Framer, Figma, Webflow
 - **Web & Mobile Development**: MERN Stack, Android Studio, WordPress, Flask
 
